@@ -2,6 +2,15 @@
   Currency Converter 💵
 </h1>
 
+<p align="center">
+    <img alt="Origem Projeto" src="https://img.shields.io/badge/Project-Course-informational">
+    <img  alt="College Project" src="https://img.shields.io/badge/Course-CJRM-green">
+    <img alt="Difficult Level" src="https://img.shields.io/badge/level-medium-yellow">
+    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/alexvieirasj/currency-converter">
+    <img alt="Issue" src="https://img.shields.io/bitbucket/issues/alexvieirasj/currency-converter?style=critical">
+    <img alt="Pull Request" src="https://img.shields.io/bitbucket/pr-raw/alexvieirasj/currency-converter?style=critical">
+</p>
+
 ## 💻 Detalhes do projeto
 
 Aplicação desenvolvida no curso [CJRM - Roger Melo](https://www.rogermelo.com.br/). Consiste em um aplicativo que faz a conversão a moeda escolhida para a moeda desejada com valor atualizado.
