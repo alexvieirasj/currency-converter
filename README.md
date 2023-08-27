@@ -13,7 +13,7 @@
 
 ## 💻 Detalhes do projeto
 
-Aplicação desenvolvida no curso [CJRM - Roger Melo](https://www.rogermelo.com.br/). Consiste em um aplicativo que faz a conversão a moeda escolhida para a moeda desejada com valor atualizado.
+Aplicação desenvolvida no curso [CJRM - Roger Melo](https://www.rogermelo.com.br/). Consiste em uma aplicação que faz a conversão da moeda escolhida para a moeda desejada com valor o atualizado.
 
 <h1 align="center">
     <img alt="Capa Projeto" title="CapaProjeto" src="./demonstracao-aplicacao.gif" height="550"/>
